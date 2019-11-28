@@ -11,10 +11,9 @@ Buat aplikasi Flutter Sederhana dengan ketentuan:
 5. Upload project tersebut ke dalam Github, kirim tugas berupa link repository tersebut.
 
 ### Screenshot
-<img src="images/Screenshot_tugas2_1.png" width="210"></img>
-<img src="images/Screenshot_tugas2_2.png" width="210"></img>
-<img src="images/Screenshot_tugas2_3.png" width="210"></img>
-<img src="images/Screenshot_tugas2_4.png" width="210"></img>
+<img src="images/Screenshot_2019-11-28-20-48-26-228_com.example.tugas_3.png" width="210"></img>
+<img src="images/Screenshot_2019-11-28-20-48-32-084_com.example.tugas_3.png" width="210"></img>
+<img src="images/Screenshot_2019-11-28-20-48-44-648_com.example.tugas_3.png" width="210"></img>
 
 ### Built With
 - [Flutter](https://flutter.dev)
